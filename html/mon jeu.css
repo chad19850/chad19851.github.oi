@@ -1,0 +1,56 @@
+#titre1 {
+ background-color: rgba(202, 166, 166, 0.295);
+ color: rgb(136, 21, 21);
+margin: 10px 35%; 
+width: 250px;
+height: 2em;
+
+}
+#t1 {
+    margin-left: 45%;
+    font-family:;
+
+}
+#ta1 {
+   display: block;
+    color: rgb(71, 71, 221);
+    float: left;
+ 
+  
+}
+#ta2 {
+    display: block;
+    color: rgb(255, 0, 0);
+    float: left;
+}
+#ta3 {
+    display: block;
+    color: rgb(226, 226, 37);
+    float: left;
+}
+#ta4 {
+    display: block;
+    color: rgb(97, 97, 214);
+    float: left;
+}
+#ta5 {
+    display: block;
+    color: rgb(24, 184, 24);
+    float: left;
+}
+#ta6 {
+   display: block;
+   color: red;
+   float: left;
+}
+#fnaf11 {
+height: 50px;
+width: 250px;
+background-color: rgba(255, 0, 0, 0.137);
+
+}
+#fnaf12 {
+    height: 150px;
+    width: 250px;
+    
+    }
